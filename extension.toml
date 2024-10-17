@@ -1,0 +1,7 @@
+id = "patient-theme"
+name = "Patient Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["LinkedWrong <stepanb0000@gmail.com>"]
+description = "Theme for the Zed to be patient"
+repository = "https://github.com/LinkedWrong/patient-theme"
